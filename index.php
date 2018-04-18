@@ -9,7 +9,7 @@ require_once($_SERVER['DOCUMENT_ROOT']."/learningportal/inc/inc-init.php");
     </head>
 
     <body>
-		<h1>This works?</h1>
+		<h1>Trying to push to github</h1>
 		<?php require_once($default_url."inc/inc-footer.php"); ?>
 		<?php require_once($default_url."inc/inc-footer-scripts.php"); ?>
     </body>
