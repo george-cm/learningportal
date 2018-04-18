@@ -4,7 +4,7 @@ require_once($_SERVER['DOCUMENT_ROOT']."/learningportal/inc/inc-init.php");
 <html lang="en">
     <head>
         <meta charset="utf-8">
-        <title>Welcome to Dent</title>
+        <title>Learning Portal</title>
         <?php require_once($default_url."inc/inc-html-head.php"); ?>
     </head>
 
