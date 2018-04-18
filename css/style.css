@@ -1,0 +1,24 @@
+body {
+  /* border: 1px solid red; */
+}
+
+.content {
+  min-height: calc(100vh - 250px);
+}
+
+.header {
+  border: 1px solid red;
+  height: 50px;
+}
+
+.footer {
+  height: 150px;
+  border: 1px solid red;  
+  position: relative;
+  left: 0;
+  bottom: 0;
+  /* width: 100%; */
+  /* background-color: green; */
+  /* color: white; */
+  /* text-align: center; */
+}
