@@ -1,0 +1,13 @@
+/*****************************************************************/
+/* Import Google fonts combination between Open sans and Ubuntu  */
+/* Ubuntu should be used for titles and Open sans for paragraphs */
+/*****************************************************************/
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700|Ubuntu:400,700');
+
+
+body {
+    background-color: #F7F8FB;
+    color: #24252A;
+    /* Font family should always have a fall-back */
+    font-family: 'Open Sans', sans-serif;
+}
