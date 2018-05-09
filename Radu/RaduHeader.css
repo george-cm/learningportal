@@ -1,0 +1,58 @@
+.nav {
+    list-style-type: square;
+    /* margin-right: 15%; */
+  }
+
+  .navbar-default .navbar-nav>li>a {
+    color: green;
+    list-style-type: circle;
+  }
+
+  .navbar-nav {
+    list-style-type: square;
+  }
+
+  .navbar {
+    margin: 0px;
+    border-radius: 0;
+    border: 0;
+
+  }
+
+  /* .container-fluid {
+max-width: 80%;
+} */
+
+  .container {
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+
+
+  .signinform {
+    /* max-width: 25%; */
+    margin: 7.3%;
+    margin-right: 0;
+    margin-left: 0;
+    float: right;
+  }
+
+  .hero-background {
+    background-image: url("https://media.wired.com/photos/5932988b9be5e55af6c261cb/master/pass/learning-styles.jpg");
+    background-position: center;
+    min-height: 150%;
+  }
+
+  img {
+    padding: 7px;
+    margin: 5px;
+    max-width: 40px;
+    max-height: 40px;
+  }
+
+  .caption {
+    color: white;
+    text-align: right;
+    margin: 20px 10px;
+    font-size: 120%;
+  }
